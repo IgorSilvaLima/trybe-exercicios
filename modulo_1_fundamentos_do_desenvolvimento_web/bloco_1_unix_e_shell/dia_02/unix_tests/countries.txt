@@ -1,5 +1,4 @@
 Afghanistan
-Aguas claras
 Albania
 Algeria
 Andorra
@@ -58,7 +57,6 @@ Estonia
 Ethiopia
 Fiji
 Finland
-Franca
 France
 Gabon
 Gambia
@@ -75,14 +73,12 @@ Haiti
 Honduras
 Hungary
 Iceland
-Igor lima
 India
 Indonesia
 Iran
 Iraq
 Ireland {Republic}
 Israel
-Italia
 Italy
 Ivory Coast
 Jamaica
@@ -147,6 +143,8 @@ Qatar
 Romania
 Russian Federation
 Rwanda
+St Kitts & Nevis
+St Lucia
 Saint Vincent & the Grenadines
 Samoa
 San Marino
@@ -165,8 +163,6 @@ South Africa
 South Sudan
 Spain
 Sri Lanka
-St Kitts & Nevis
-St Lucia
 Sudan
 Suriname
 Swaziland
@@ -195,11 +191,6 @@ Vanuatu
 Vatican City
 Venezuela
 Vietnam
-Vinicius lacerda
-Vou malhar
 Yemen
 Zambia
 Zimbabwe
-brasil
-brasil lixo
-bruno gordo
