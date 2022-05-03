@@ -8,13 +8,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### _[Bloco 1: Introdução - Unix & Shell](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_1_unix_e_shell)_ 
+##### _[Bloco 1: Introdução - Unix & Shell](https://github.com/IgorSilvaLima/trybe-exercicios/tree/master/modulo_1_fundamentos_do_desenvolvimento_web/bloco_1_unix_e_shell)_ 
 - [X] 1-3: _Fundamentos do Desenvolvimento Web_
 - [X] 1-3: _Introdução Unix & Shell_
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
 
-##### _[Bloco 2: Git & GitHub](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_2_git_github_e_internet)_
+##### _[Bloco 2: Git & GitHub](https://github.com/IgorSilvaLima/trybe-exercicios/tree/master/modulo_1_fundamentos_do_desenvolvimento_web/bloco_2_git_github_e_internet)_
 
 - [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
